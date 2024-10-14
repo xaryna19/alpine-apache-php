@@ -3,7 +3,6 @@ Build the image
 
 Docker Compose
 ```
-    version: '3'
     services:
       web:
         image: xaryna/alpine-apache-php
